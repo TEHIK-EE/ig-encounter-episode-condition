@@ -1,8 +1,8 @@
-# TEHIK FHIR Implementation Guide template
+# TEHIK FHIR Implementation Guide starter
   
-Starter project for creating new FHIR Implementation Guides (IG) in TEHIK-EE group.
+Starter (template) project for creating new FHIR Implementation Guides (IG) in TEHIK-EE group.
 
-IG is published to: https://github.tehik.ee/ig-ee-template/
+IG is published to: https://github.tehik.ee/ig-ee-starter/
 
 Check out [index](input/pagecontent/index.md) on how to start working with this IG.
 

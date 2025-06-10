@@ -5,13 +5,13 @@
 
 # SUSHI will use id as both id and packageId in the IG unless a
 # specific packageId is also provided in this file.
-id: ee.fhir.ig-template # REPLACE_ME: use a unique id for your IG
-canonical: https://fhir.ee/ig-template # REPLACE_ME: canonical url should start with https://fhir.ee/ and end with the IG id
-name: FHIR IG Template # REPLACE_ME:
-title: "TEHIK FHIR IG Template" # REPLACE_ME:
+id: ee.fhir.ig-starter # REPLACE_ME: use a unique id for your IG
+canonical: https://fhir.ee/ig-starter # REPLACE_ME: canonical url should start with https://fhir.ee/ and end with the IG id
+name: FHIR IG Starter # REPLACE_ME:
+title: "TEHIK FHIR IG Starter" # REPLACE_ME:
 description: TEHIK IG starter project to build build domain specific IG-s within TEHIK # REPLACE_ME:
-status: draft # active | draft | active | retired | unknown
-license: CC0-1.0 #REPLACE_ME:
+status: draft # active | draft | active | retired | unknown # REPLACE_ME: according to maturity of the IG
+license: CC0-1.0 #REPLACE_ME: CC0-1.0 | Apache-2.0 | MIT | MPL-2.0 | EPL-2.0 | BSD-3-Clause | ISC | Unlicense | Zlib
 version: 1.0.0 #REPLACE_ME:
 
 # Although fhirVersions is 0..* in the ImplementationGuide resource
