@@ -20,10 +20,10 @@ Requirements:
 - [ghbuild.yml](.github/workflows/ghbuild.yml) file is present in the repository.
 - GitHub Pages is enabled for the repository, with the source set to the `gh-pages` branch.
 
-Using GitHub Actions, the static site is automatically published to the https://github.tehik.ee/<project-id> site.
-Branches will be published to https://github.tehik.ee/<project-id>/branches/<branch-name> site. 
+Using GitHub Actions, the static site is automatically published to the `https://github.tehik.ee/<project-id>` site.
+Branches will be published to `https://github.tehik.ee/<project-id>/branches/<branch-name>` site. 
 
 ### Via FHIR auto-build
 Requirements: https://github.com/FHIR/auto-ig-builder/blob/master/README.md 
 
-Using FHIR auto-build, the static site is automatically published to the https://build.fhir.org/ig/TEHIK-EE/<project-id> site.
+Using FHIR auto-build, the static site is automatically published to the `https://build.fhir.org/ig/TEHIK-EE/<project-id>` site.

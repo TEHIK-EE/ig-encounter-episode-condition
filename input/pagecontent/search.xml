@@ -1,7 +1,7 @@
 <div xmlns="http://www.w3.org/1999/xhtml">
   <p/>
-<!--  REPLACE_ME: replace https://fhir.ee with your public IG URL-->
-  <iframe src="https://duckduckgo.com/search.html?site=https://fhir.ee&amp;prefill=Search this IG &amp;focus=yes"
+<!--  REPLACE_ME: replace site URL (https://github.tehik.ee/ig-ee-starter/) with your public IG URL-->
+  <iframe src="https://duckduckgo.com/search.html?site=https://github.tehik.ee/ig-ee-starter/&amp;prefill=Search this IG &amp;focus=yes"
           style="overflow:hidden;margin:0;padding:0;width:408px;height:40px;"
           frameborder="0"/>
   <p/>
