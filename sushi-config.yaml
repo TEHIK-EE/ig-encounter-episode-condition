@@ -11,8 +11,8 @@ name: FHIR IG Starter # REPLACE_ME:
 title: "TEHIK FHIR IG Starter" # REPLACE_ME:
 description: TEHIK IG starter project to build build domain specific IG-s within TEHIK # REPLACE_ME:
 status: draft # active | draft | active | retired | unknown # REPLACE_ME: according to maturity of the IG
-license: CC0-1.0 #REPLACE_ME: CC0-1.0 | Apache-2.0 | MIT | MPL-2.0 | EPL-2.0 | BSD-3-Clause | ISC | Unlicense | Zlib
-version: 1.0.0 #REPLACE_ME:
+license: MIT
+version: 0.1.0 #REPLACE_ME: start with 0.1.0 and increment as needed
 
 # Although fhirVersions is 0..* in the ImplementationGuide resource
 # it can be a single item OR and array here (but so far SUSHI only
@@ -151,7 +151,7 @@ pages:
   index.md:
     title: Home
   page1.md:
-    title: Sample page 1
+    title: Diagram examples
   page2.md:
     title: Sample page 2
   downloads.xml:

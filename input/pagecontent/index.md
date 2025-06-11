@@ -4,6 +4,8 @@ This implementation guide is a base template and starter point for creating new 
 
 It provides some conventions on how to structure IG, build it and publish generated website.
 
+Source code for this IG is available in [GitHub](https://github.com/TEHIK-EE/ig-ee-starter).
+
 [//]: # (REMOVE_ME: Needed only for this specific IG starter)
 ### How to start
 
@@ -12,6 +14,13 @@ It provides some conventions on how to structure IG, build it and publish genera
 1. Remove unnecessary pages, fsh files etc., look for comments marked **REMOVE_ME:**
 1. Add domain specific profiles, markdown pages etc.
 1. Change alias.fsh and include your domain specific values, please follow the naming pattern.
+
+[//]: # (REMOVE_ME: Needed only for this specific IG starter)
+### Learning resources
+- [FSH starter guide](https://fshschool.org/) (describes how to start with IG development using FSH)
+- [FHIR Shorthand (FSH) documentation](https://build.fhir.org/ig/HL7/fhir-shorthand/)
+- [IG guidance](https://build.fhir.org/ig/FHIR/ig-guidance/) (describes how to style and IG rendering features)
+- [IG publisher documentation](https://confluence.hl7.org/spaces/FHIR/pages/35718627/IG+Publisher+Documentation) 
 
 [//]: # (REMOVE_ME: Needed only for this specific IG starter)
 ### Structure

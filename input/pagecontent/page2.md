@@ -2,5 +2,6 @@
 ### Paragraph #1
 #### Subparagraph #1.1
 text
-### Paragraph #2
-text
+### Image
+Image from `input/images/sample.png` file:
+![Some cat](sample.png)

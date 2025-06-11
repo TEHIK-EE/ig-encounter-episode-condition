@@ -12,4 +12,8 @@ graph TD
     ABC -->|exmplanations| BBB
 ```
 
-### Paragraph #2
+#### PlantUML diagram
+Sample diagram using [PlantUML](https://plantuml.com/) syntax.
+
+Generated from `input/images-source/sample.plantuml` file:
+{% include sample.svg %}
