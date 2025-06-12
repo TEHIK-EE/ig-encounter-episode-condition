@@ -4,7 +4,9 @@ This implementation guide is a base template and starter point for creating new 
 
 It provides some conventions on how to structure IG, build it and publish generated website.
 
-Source code for this IG is available in [GitHub](https://github.com/TEHIK-EE/ig-ee-starter).
+#### Source code
+[//]: # (REPLACE_ME: Use project specific GitHub repository URL)
+This IG source code is available in [GitHub](https://github.com/TEHIK-EE/ig-ee-starter).
 
 [//]: # (REMOVE_ME: Needed only for this specific IG starter)
 ### How to start
@@ -19,7 +21,7 @@ Source code for this IG is available in [GitHub](https://github.com/TEHIK-EE/ig-
 ### Learning resources
 - [FSH starter guide](https://fshschool.org/) (describes how to start with IG development using FSH)
 - [FHIR Shorthand (FSH) documentation](https://build.fhir.org/ig/HL7/fhir-shorthand/)
-- [IG guidance](https://build.fhir.org/ig/FHIR/ig-guidance/) (describes how to style and IG rendering features)
+- [IG guidance](https://build.fhir.org/ig/FHIR/ig-guidance/) (describes how to style IG, structure and manage content, best practices, etc.)
 - [IG publisher documentation](https://confluence.hl7.org/spaces/FHIR/pages/35718627/IG+Publisher+Documentation) 
 
 [//]: # (REMOVE_ME: Needed only for this specific IG starter)
@@ -28,9 +30,9 @@ Source code for this IG is available in [GitHub](https://github.com/TEHIK-EE/ig-
 Please follow the same structure when adding new files.
 
 **input/pagecontent** folder contains markdown files which are used to generate the website pages.
-Menu and pages are defined in **sushi-config.yaml** file.
+Menu and page name mappings are defined in **sushi-config.yaml** file.
 
 [//]: # (REMOVE_ME: Needed only for this specific IG starter)
 ### Build and deploy
 
-Building and deploying information is located in GitHub project README file. 
+Building and deploying information is located in [GitHub](https://github.com/TEHIK-EE/ig-ee-starter) project [README](https://github.com/TEHIK-EE/ig-ee-starter/blob/main/README.md) file. 
