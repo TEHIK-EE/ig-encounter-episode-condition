@@ -5,7 +5,7 @@
 
 # SUSHI will use id as both id and packageId in the IG unless a
 # specific packageId is also provided in this file.
-id: ig-starter # REPLACE_ME: use a unique id for your IG
+id: ig-ee-starter # REPLACE_ME: use a unique id for your IG
 canonical: https://fhir.ee/tools # REPLACE_ME: canonical url should start with https://fhir.ee/ and end with domain specific path
 name: TEHIK IG Starter # REPLACE_ME:
 title: "TEHIK FHIR IG Starter" # REPLACE_ME:
@@ -156,6 +156,8 @@ pages:
     title: Sample page 2
   downloads.xml:
     title: Downloads
+  contacts.md:
+    title: Contacts
   search.xml:
     title: Search
 
@@ -193,7 +195,9 @@ menu:
     Page1: page1.html
     Page2: page2.html
   Artifacts: artifacts.html
-  Downloads: downloads.html
+  About:
+    Downloads: downloads.html
+    Contacts: contacts.html
   Table of Contents: toc.html
 
 # The parameters property represents IG.definition.parameter. Rather
