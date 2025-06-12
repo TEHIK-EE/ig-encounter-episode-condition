@@ -14,4 +14,4 @@ if not exist "%this%\input-cache\publisher.jar" (
 docker pull hl7fhir/ig-publisher-base:latest
 
 docker run --rm -it -v "%this%:/workdir" -v "%USERPROFILE%\.fhir:/home/publisher/.fhir" ^
-  hl7fhir/ig-publisher-base:latest /bin/bash -c "cd /workdir && ./_genonce.sh"
+  hl7fhir/ig-publisher-base:latest /bin/bash -c "cd /workdir && ./_genonce.sh -tx https://term.tehik.ee/fhir/"

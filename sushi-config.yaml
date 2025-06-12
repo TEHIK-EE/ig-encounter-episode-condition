@@ -7,7 +7,7 @@
 # specific packageId is also provided in this file.
 id: ig-starter # REPLACE_ME: use a unique id for your IG
 canonical: https://fhir.ee/tools # REPLACE_ME: canonical url should start with https://fhir.ee/ and end with domain specific path
-name: FHIR IG Starter # REPLACE_ME:
+name: TEHIK IG Starter # REPLACE_ME:
 title: "TEHIK FHIR IG Starter" # REPLACE_ME:
 description: TEHIK IG starter project to build build domain specific IG-s within TEHIK # REPLACE_ME:
 status: draft # active | draft | active | retired | unknown # REPLACE_ME: according to maturity of the IG
