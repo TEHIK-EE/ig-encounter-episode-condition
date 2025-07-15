@@ -1,8 +1,6 @@
 [//]: # (REPLACE_ME: Should replace with domain specific introduction)
 ### Intro
-This implementation guide is a base template and starter point for creating new IG within TEHIK.
-
-It provides some conventions on how to structure IG, build it and publish generated website.
+This implementation guide is for encounter, episode of care and condition.
 
 #### Source code
 [//]: # (REPLACE_ME: Use project specific GitHub repository URL)
